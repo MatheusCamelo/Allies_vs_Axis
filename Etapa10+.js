@@ -397,7 +397,7 @@ function texto1(){
 	textFont(fonte);
 	textSize(50);
 	fill(255); 
-	text("GUERRA MUNDIAL DOIS", 130, 185);
+	text("ALLIES VS AXIS", 130, 185);
 	textSize(30);
 	text("The Game", 325, 250);
 	textSize(30);
